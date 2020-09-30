@@ -1,0 +1,7 @@
+name: {{ cookiecutter.project_slug }}
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python={{ cookiecutter.python_version }}
