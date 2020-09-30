@@ -6,5 +6,6 @@
     "project_short_description": "Boilerplate contains all the you need to start a python data project the right way",
     "python_version": "3.7",
     "version": "0.1.0",
-    "for_kaggle": false
+    "for_kaggle": false,
+    "conda_env": true
 }

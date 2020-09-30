@@ -1,5 +1,11 @@
 import subprocess
 
+use_conda_env = {{ cookiecutter.conda_env }}
+
+if not use_conda_env:
+    print("No conda setup required")
+    exit(0)
+
 project_name = "{{ cookiecutter.project_slug }}"
 
 COMMAND_ACTIVATE_ENV=f"source activate {project_name}"
