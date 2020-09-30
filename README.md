@@ -28,7 +28,7 @@ $ pip install cookiecutter
 ## Generate a new project
 
 In a folder where you want your project generated :
-`cookiecutter https://github.com/andfanilo/cookiecutter-kaggle.git`
+`cookiecutter git@github.com:rcammisola/python-data-project.git`
 
 You can also clone the project in `<path/to/template>`,
 and from the folder where you want to generate your project, launch `cookiecutter <path/to/template>`
