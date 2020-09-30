@@ -62,3 +62,9 @@ Other links that helped shape this cookiecutter :
 - [Cookiecutter DataScience Opinions](http://drivendata.github.io/cookiecutter-data-science/#opinions)
 - [Working efficiently with JupyterLab](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/)
 - [Python Packaging - Ionel's Codelog](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
+
+## TODO:
+
+* Git init
+* Add nb-clean to dev requiremnts
+* Add bumpversion
